@@ -1,0 +1,11 @@
+Do this:
+
+	sudo docker-compose up -d --build
+	
+Challenge description (edited) during the CTF:
+	An elf is tired of snow and wanted to visit summer... in an online RPG at least. Could you help him beat the game?
+
+	Service: http://localhost:12020
+
+	Extra clarification, please read this: https://docs.google.com/document/d/1wYlM2ideh5R5I7KDTLFTu_NLQmAJAmV-hVjNlmAOIEY
+
