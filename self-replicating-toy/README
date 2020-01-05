@@ -1,0 +1,3 @@
+sudo docker-compose up -d --build
+
+The source was provided.
